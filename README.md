@@ -3,8 +3,8 @@ Bu proje, bir balık türü sınıflandırma modeli geliştirmeyi amaçlıyor. "
 
 Veri Seti: https://www.kaggle.com/datasets/crowww/a-large-scalefish-dataset/data
 
-Projenin kaggle linki : [https://www.kaggle.com/code/rukiyekaraatli/fish-ann/edit/run/202678227
-](https://www.kaggle.com/code/rukiyekaraatli/fish-ann)
+Projenin kaggle linki :https://www.kaggle.com/code/rukiyekaraatli/fish-ann
+
 data DataFrame'indeki ilk 9 görüntüyü ve etiketlerini 3x3'lük bir grid üzerinde gösterir. Görüntüler 224x224 boyutuna ayarlanıp normalize edildikten sonra, her birine ait etiket başlık olarak eklenir ve görseller eksensiz olarak ekranda gösterilir.
 
 ![image](https://github.com/user-attachments/assets/e331db9d-fdb4-44a6-927c-022586eaef86)
