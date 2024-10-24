@@ -10,23 +10,8 @@ data DataFrame'indeki ilk 9 görüntüyü ve etiketlerini 3x3'lük bir grid üze
 ![image](https://github.com/user-attachments/assets/e331db9d-fdb4-44a6-927c-022586eaef86)
 
 BİRİNCİ MODEL sonuçları:
-
-Classification Report:
-                    precision    recall  f1-score   support
-
-   Black Sea Sprat       0.12      0.11      0.12       400
-   Gilt-Head Bream       0.15      0.11      0.13       400
-   Hourse Mackerel       0.11      0.11      0.11       400
-        Red Mullet       0.08      0.09      0.08       400
-     Red Sea Bream       0.11      0.15      0.13       400
-          Sea Bass       0.14      0.11      0.12       400
-            Shrimp       0.11      0.18      0.14       400
-Striped Red Mullet       0.13      0.12      0.12       400
-             Trout       0.13      0.07      0.09       400
-
-          accuracy                           0.12      3600
-         macro avg       0.12      0.12      0.11      3600
-      weighted avg       0.12      0.12      0.11      3600
+      
+![image](https://github.com/user-attachments/assets/3cd2e70a-c139-4350-a0f7-26528759c94a)
 
     
 ![image](https://github.com/user-attachments/assets/3abdd295-eeae-4597-b3ab-b494624a5259)
@@ -37,22 +22,8 @@ SONUÇ: Modelin genel doğruluğu %75.7 olsa da, türler bazında performansı d
 
 İKİNCİ MODEL sonuçları:
 
-Classification Report:
-                     precision    recall  f1-score   support
+![image](https://github.com/user-attachments/assets/9a305b64-83c0-47b5-95cd-3bf94d870446)
 
-   Black Sea Sprat       0.11      0.10      0.10       400
-   Gilt-Head Bream       0.13      0.16      0.14       400
-   Hourse Mackerel       0.11      0.09      0.10       400
-        Red Mullet       0.11      0.11      0.11       400
-     Red Sea Bream       0.11      0.09      0.10       400
-          Sea Bass       0.10      0.13      0.11       400
-            Shrimp       0.10      0.11      0.10       400
-Striped Red Mullet       0.13      0.12      0.13       400
-             Trout       0.13      0.12      0.12       400
-
-          accuracy                           0.11      3600
-         macro avg       0.11      0.11      0.11      3600
-      weighted avg       0.11      0.11      0.11      3600
 
 ![image](https://github.com/user-attachments/assets/6ff3e9b9-2c0f-4c43-970c-dc0db4e288f6)
 
